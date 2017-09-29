@@ -1,0 +1,24 @@
+body {
+    padding-top: 3%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+
+div.panel-footer {
+    padding-left: 5%;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+div.well {
+    background: rebeccapurple;
+}
+
+div.jumbotron {
+    background: rebeccapurple;
+    color: #eeeeee;
+}
